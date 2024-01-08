@@ -33,7 +33,8 @@
 -<b>Trending Plant Process Data in PowerBI</b>
  - Repository:
  - This is a continuation of the above project where the SQL Server is linked to PowerBI to allow trending of Process Data.
--<b>Automate Exporting of Process Data to .csvs</b>
+
+-<b>Automate Exporting of Process Data to .CSVs</b>
  - Repository:
  - This is the final portion of the above two projects. Now that we can trend the data, we need a way to share it with customers. A simple python program can be built to save the .csvs can set to run at automated intervals.
 
