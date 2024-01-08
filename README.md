@@ -46,5 +46,7 @@
 - <b>Building a Honeynet to track attacks</b>
 
 <h2>General IT</h2>
--<b>Building a Helpdesk Ticket System in SharePoint with Powerautomate.</b>
--<b></b>
+
+- <b>Building a Helpdesk Ticket System in SharePoint with Powerautomate.</b>
+- <b>Creating a Test SQL Server and Simulating Data</b>
+ - Repository: 
