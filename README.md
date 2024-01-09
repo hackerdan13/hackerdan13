@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dan! Welcome to my Github. On here you can find some of the projects I've worked on both professionally and in my free time. I am an IT and controls engineering professional with a variety of experience in different industries.</a></h1>
+<h1>Hi, I'm Dan! Welcome to my Github. On here you can find some of the projects I've worked on both professionally and in my free time. I am an IT and controls engineering professional with a variety of experience in different industries. I have a heavy interest in system integration, data management, networking and cybersecurity, particular in the industial industry.</a></h1>
 
 <h2>Education:<h2/>
  
@@ -8,6 +8,13 @@
    photoionize elements.</b>
  - <b>Researched the unfolding of Cytochrome c (Cytc) using fluoresence correlation spectroscopy. This was used to study apoptosis. </b>
  - <b>Researched and helped design a prototype water-level sensor for automated water level detection. </b>
+
+ <b>Professional Experience</b>
+  - Automated test equipment used in electrical component testing for critical hardware. The program helped reduce man power and made the test safer for the test.
+  - Automated test equipment that used visual machine learning and OCR to capture the serial number off a compnent and read the resistance of the component.
+  - Automated test equipment that ran a di-electric and resistance test across 10 components at once. Software also used OCR to record the serial number of the component.
+  - Built a SQL database that pulled data from TIA Portal V17 and then linked the database to Microsoft PowerBI to live trend the data. Scripted a python code to automatically export the data to a .csv on a schedule.
+  - Utilized NIST's Manufacturing Cybersecurity Profile to build the company's security program. 
  
 <b>Certification</b>
 
@@ -22,6 +29,7 @@
  - <b>Data Analysis</b>
  - <b>Linux</b>
  - <b>TIA Portal V17 and WinCC V7 </b>
+ - <b>LabVIEW</b>
  
 
 <h2>Controls Projects:</h2>
